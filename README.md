@@ -14,10 +14,7 @@ This repository contains all the projects developed during the SQL course at [DI
 
 - **scripts_sql/**  
   SQL scripts exported or created for each project.
-
-- **other_projects/**  
-  Space for future course projects or additional exercises.
-
+  
 ## Internal Project Organization
 
 Inside each project folder:
